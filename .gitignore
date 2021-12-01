@@ -1,2 +1,5 @@
 /.DS_Store
 /venv
+/dist
+/build
+/shannon_fano.egg-info
